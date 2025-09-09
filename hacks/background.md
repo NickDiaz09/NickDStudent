@@ -6,7 +6,7 @@ description: Use JavaScript to have an in motion background.
 # These are locations of images in this Game
 sprite: images/platformer/sprites/flying-ufo.png
 background: images/platformer/backgrounds/alien_planet1.jpg
-perm≤alink: /background
+permalink: /background
 ---
 
 <!-- HTML for where Game is stored -->

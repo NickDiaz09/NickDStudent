@@ -1,8 +1,8 @@
-title: Open Coding 
+title: NickDStudent
 description: "Class of 2026"
-owner_name: John Mortensen
-github_username: jm1021 
-github_repo: "student" 
+owner_name: Nicolas Diaz
+github_username: NDiaz09
+github_repo: "NickDStudent" 
 baseurl: "/student" 
 future: true
 remote_theme: jekyll/minima
